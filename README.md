@@ -38,4 +38,4 @@ This tool is intended for educational purposes only.
 Only scan systems you own or have explicit permission to test.
 
 ## Author
-Vijayarama Mohith Varma | Cybersecurity M.S. | CISSP
+Vijayarama Mohith Varma | Cybersecurity M.S.
